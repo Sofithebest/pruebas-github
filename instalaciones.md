@@ -1,2 +1,4 @@
 # Pasos para instalar
-Seguir estos pasos: 
+1. Seguir estos pasos: 
+
+2. Ejecutar el comando:
