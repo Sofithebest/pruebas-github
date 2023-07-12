@@ -1,4 +1,4 @@
-# Pasos para instalar programas
+# Pasos para
 1. Seguir estos 2 pasos: 
 
 2. Ejecutar el nuevo comando:
